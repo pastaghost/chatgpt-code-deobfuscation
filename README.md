@@ -1,3 +1,10 @@
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word;
+  }
+</style>
+
 # ChatGPT-Assisted Code Deobfuscation
 
 ## Original Code
