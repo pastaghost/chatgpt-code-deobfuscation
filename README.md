@@ -8,7 +8,7 @@ What is the function of this program?
 
 < contents of original.c pasted here >
 
-#### Response
+#### ChatGPT Response
 
 This program appears to be a C program that attempts to change the credentials of a process using a "copy-on-write" (COW) vulnerability. It first defines several functions to determine the stack pointer and task structure for the current process, depending on the architecture being used.
 
@@ -24,7 +24,7 @@ Deobfuscate the following code snippet. Explain the function of the deobfuscated
 
 < contents of obfuscated.c pasted here >
 
-#### Response
+#### ChatGPT Response
 
 The given code is a heavily obfuscated C program that appears to be attempting to exploit some sort of vulnerability. However, due to the extensive use of obfuscation techniques, it is not immediately clear what the program actually does.
 
